@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/LucasCardosol">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=LucasCardosol&show_icons=false&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49.569%" src="https://github-readme-stats.vercel.app/api?username=LucasCardosol&show_icons=false&theme=gotham&include_all_commits=true&count_private=true"/>
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCardosol&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
@@ -24,5 +24,4 @@
 <div> 
   <a href = "mailto:lucascardoso31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-cardoso-095356189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "tel:6198660209"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>

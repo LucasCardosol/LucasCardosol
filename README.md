@@ -1,4 +1,4 @@
-## Salve salve 😎✌️
+## Olá , Bem vindo ao meu git 😎✌️
 
 - 🔭 Trabalhando com front-end (freelance) https://github.com/bocabocateam/bocaboca-manager-web 😁
 - 🌱 No momento estudando Estrutura de dados com javascript e criando projetos pessoais
